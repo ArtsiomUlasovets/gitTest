@@ -12,3 +12,6 @@ var newVar7 = 'Aadwdaw'
 var newVar8 = 'Aadwdaw'
 var newVar9 = 'Aadwdaw'
 var newVar10 = 'Aadwdaw'
+var newVar11 = 'Aadwdaw'
+var newVar12 = 'Aadwdaw'
+
